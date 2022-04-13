@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SqlLite</string>
+
+    <string name="tbNama">Nama</string>
+    <string name="tbTelpon">Telpon</string>
+    <string name="tbSimpan">Simpan</string>
+
+    <string name="etNama">Nama</string>
+    <string name="etTelpon">No Telpon</string>
+    <string name="etSimpan">Simpan</string>
+
+    <string name="pmEdit">Edit Data</string>
+    <string name="pmHapus">Hapus Data</string>
 </resources>
